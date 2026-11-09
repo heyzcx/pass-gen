@@ -7,7 +7,7 @@ Generate random passwords and passphrases from the command line — zero-depende
 Requires Python 3.8+. No dependencies to install.
 
 ```bash
-git clone https://github.com/mrzhoucx/pass-gen.git
+git clone https://github.com/heyzcx/pass-gen.git
 cd pass-gen
 ```
 
